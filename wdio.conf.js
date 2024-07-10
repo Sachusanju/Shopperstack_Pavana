@@ -1,5 +1,5 @@
 import { expect } from 'chai'
-
+import allure from 'allure-commandline'
 
 export const config = {
     //

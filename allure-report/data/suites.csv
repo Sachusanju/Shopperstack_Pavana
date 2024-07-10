@@ -1,2 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
 "failed","Tue Jun 11 13:42:42 IST 2024","Tue Jun 11 13:42:51 IST 2024","9679","","My Login application","","","","should login with valid credentials",""
+"passed","Sat Jun 15 22:45:11 IST 2024","Sat Jun 15 22:45:42 IST 2024","30882","","E2E scenario to add product","","","","Add product to the cart",""
+"passed","Wed Jul 10 13:06:06 IST 2024","Wed Jul 10 13:06:34 IST 2024","27661","","E2E scenario to add product","","","","Add product to the cart",""
